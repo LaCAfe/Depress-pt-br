@@ -1,6 +1,6 @@
 # Dataset Depress-pt-br
 
-Conjunto de dados de palavras relacionadas à depressão para o português do Brasil
+Conjunto de dados de palavras relacionadas à depressão para o português do Brasil.
 
 Ao utilizar este conjunto de dados para fins acadêmicos, por favor, cite nosso artigo:
 
